@@ -1,4 +1,4 @@
 # rsi-project
-RSI subject project
+Networks and Internet Services subject project
 
 VoIP project
